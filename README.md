@@ -5,4 +5,6 @@ Alteração 1
 
 Alteração 2
 
-Alteracao com merge 1
+Alteração com merge 1
+
+Alteração com merge 2
