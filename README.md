@@ -12,3 +12,5 @@ Alteração com merge 1
 Alteração com merge 2
 
 Alteração com rebase 1
+
+Alteração com rebase 2
